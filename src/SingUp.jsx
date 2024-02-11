@@ -60,7 +60,7 @@ const SignUp = () => {
           <input
             type="text"
             id="signupUsername"
-            name="username"
+            name="name"
             value={formData.username}
             onChange={handleChange}
             className="box1"
